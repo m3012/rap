@@ -3,15 +3,14 @@
   border-color: #2C4747;
 }
 
-.navbar {
-	height: 122px;
+.navbar-brand {
+  padding: 0px;
+  height: 122px;
 }
-
-.navbar-nav {
-	margin-left: 50px;
-	margin-top: 71px;
-	border-radius: 10px;
-	border: 5px #FFF;
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
 }
 
 #dogodki {
