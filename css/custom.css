@@ -4,13 +4,8 @@
 }
 
 .navbar-brand {
-  padding: 0px;
-  height: 122px;
-}
-.navbar-brand>img {
-  height: 100%;
   padding: 15px;
-  width: auto;
+  height: 122px;
 }
 
 #dogodki {
@@ -33,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-color: #6FA49E;
 }
 
-.naslov {
+.naslov-gradiva {
 	font-size: larger;
 	font-weight: bold;
 }
